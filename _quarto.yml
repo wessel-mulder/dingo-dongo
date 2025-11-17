@@ -9,14 +9,35 @@ website:
   title: "ESA2025 Movement Ecology Hackathon"
   favicon: images/dingo_icon.png
   navbar:
+  
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - workshop_overview.qmd
       - data_study_system.qmd
+      - research_questions.qmd
+      - methods.qmd
       
     right:
+      - icon: github
+        href: https://github.com/swforrest/ESA2025_animal_movement_workshop
+        
+  sidebar:
+      - title: "Methods"
+        style: floating
+        contents: 
+          - methods.qmd
+          - general_resources.qmd
+          - home_ranges.qmd
+          - hmm.qmd
+          - ssf.qmd
+          - revisitation.qmd
+          - social_networks.qmd
+          
+  page-footer:
+    center:
+      - text: "MoveSIN"
+        href: https://movesin.github.io/website/
       - icon: github
         href: https://github.com/swforrest/ESA2025_animal_movement_workshop
 

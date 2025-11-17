@@ -1,3 +1,7 @@
+# Manually added
+qgis/
+spatial_layers/
+
 # History files
 .Rhistory
 .Rapp.history

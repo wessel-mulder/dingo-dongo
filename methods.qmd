@@ -1,0 +1,43 @@
+---
+title: "Methods"
+# author: 
+#   - name: "Scott Forrest"
+#     url: https://swforrest.github.io/
+#     orcid: 0000-0001-9529-0108
+#     affiliation: Queensland University of Technology, CSIRO
+#     email: "scottwforrest@gmail.com"
+date: today
+execute: 
+  cache: false
+bibliography: paperpile_references.bib
+toc: true
+number-sections: false
+format: 
+  html:
+    self-contained: true
+    code-fold: show
+    code-tools: true
+    df-print: paged
+    code-line-numbers: true
+    code-overflow: scroll
+    fig-format: png
+    fig-dpi: 300
+  pdf:
+    geometry: 
+      - top=30mm
+      - left=30mm
+editor:
+  source
+abstract: |
+  Here we have resources and links for common movement ecology methods that you might want to use. Click the tabs on the left to navigate between methods.
+---
+
+Here we have resources and links for common movement ecology methods that you might want to use. Click the tabs on the left to navigate between methods.
+
+
+
+
+# References
+
+::: {#refs}
+:::
