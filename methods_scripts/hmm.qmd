@@ -39,7 +39,7 @@ abstract: |
 
 ## Tutorials and resources
 
-####`moveHMM` **package documentation and tutorials**
+#### `moveHMM` **package documentation and tutorials**
 - <https://cran.r-project.org/web/packages/moveHMM/vignettes/moveHMM-guide.pdf>
 - Michelot, T., Langrock, R., & Patterson, T. A. (2016). **moveHMM: an R package for the statistical modelling of animal movement data using hidden Markov models**. Methods in Ecology and Evolution, 7(11), 1308–1315. https://doi.org/10.1111/2041-210X.12578
 

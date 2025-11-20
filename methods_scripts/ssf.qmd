@@ -38,7 +38,7 @@ abstract: |
 
 ## Tutorials and resources
 
-####`amt` **preparing data**
+#### `amt` **preparing data**
 - <https://cran.r-project.org/web/packages/amt/vignettes/p1_getting_started.html>
 
 #### `amt` **fitting step selection functions**

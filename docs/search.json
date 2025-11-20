@@ -66,7 +66,7 @@
     "href": "methods_scripts/hmm.html#tutorials-and-resources",
     "title": "Hidden Markov Modelling (HMM)",
     "section": "Tutorials and resources",
-    "text": "Tutorials and resources\n####moveHMM package documentation and tutorials - https://cran.r-project.org/web/packages/moveHMM/vignettes/moveHMM-guide.pdf - Michelot, T., Langrock, R., & Patterson, T. A. (2016). moveHMM: an R package for the statistical modelling of animal movement data using hidden Markov models. Methods in Ecology and Evolution, 7(11), 1308–1315. https://doi.org/10.1111/2041-210X.12578\n\nmomentuHMM package documentation and tutorials\n\nhttps://cran.r-project.org/web/packages/momentuHMM/vignettes/momentuHMM.pdf\nMcClintock, B. T., & Michelot, T. (2018). momentuHMM: R package for generalized hidden Markov models of animal movement. Methods in Ecology and Evolution, 9(6), 1518–1530. https://doi.org/10.1111/2041-210X.12995\n\n\n\nHMM tutorial\n\nhttps://mjones029.github.io/Tutorials/HMM_tutorial.html\n\n\n\nBehavioral Analysis in R - includes both HMMs and Behavioural Change Point Analysis (BCPA)\n\nhttps://www.danaseidel.com/MovEco-R-Workshop/Materials/Day6/Behavioral_Analysis/",
+    "text": "Tutorials and resources\n\nmoveHMM package documentation and tutorials\n\nhttps://cran.r-project.org/web/packages/moveHMM/vignettes/moveHMM-guide.pdf\nMichelot, T., Langrock, R., & Patterson, T. A. (2016). moveHMM: an R package for the statistical modelling of animal movement data using hidden Markov models. Methods in Ecology and Evolution, 7(11), 1308–1315. https://doi.org/10.1111/2041-210X.12578\n\n\n\nmomentuHMM package documentation and tutorials\n\nhttps://cran.r-project.org/web/packages/momentuHMM/vignettes/momentuHMM.pdf\nMcClintock, B. T., & Michelot, T. (2018). momentuHMM: R package for generalized hidden Markov models of animal movement. Methods in Ecology and Evolution, 9(6), 1518–1530. https://doi.org/10.1111/2041-210X.12995\n\n\n\nHMM tutorial\n\nhttps://mjones029.github.io/Tutorials/HMM_tutorial.html\n\n\n\nBehavioral Analysis in R - includes both HMMs and Behavioural Change Point Analysis (BCPA)\n\nhttps://www.danaseidel.com/MovEco-R-Workshop/Materials/Day6/Behavioral_Analysis/",
     "crumbs": [
       "Methods",
       "Hidden Markov Modelling (HMM)"
@@ -131,7 +131,7 @@
     "href": "methods_scripts/ssf.html#tutorials-and-resources",
     "title": "Step selection functions (SSF)",
     "section": "Tutorials and resources",
-    "text": "Tutorials and resources\n####amt preparing data - https://cran.r-project.org/web/packages/amt/vignettes/p1_getting_started.html\n\namt fitting step selection functions\n\nhttps://cran.r-project.org/web/packages/amt/vignettes/p4_SSF.html",
+    "text": "Tutorials and resources\n\namt preparing data\n\nhttps://cran.r-project.org/web/packages/amt/vignettes/p1_getting_started.html\n\n\n\namt fitting step selection functions\n\nhttps://cran.r-project.org/web/packages/amt/vignettes/p4_SSF.html",
     "crumbs": [
       "Methods",
       "Step selection functions (SSF)"
