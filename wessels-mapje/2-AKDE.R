@@ -174,6 +174,8 @@ ggplot(data=df,
            y=areas,
            col=sex))+
   geom_boxplot()
+ggsave('away-sex-area-plot.pdf',
+       plot = get_last_plot())
 
 shapes <- lapply(dingo_MLs,function(ML){
   shape <- as.sf(ML,level.UD=0.95, level=0.95)
